@@ -21,3 +21,18 @@ Exploring the Node.js File System (fs) module:
 Reading and writing files.
 File manipulation and directory operations.
 Practical examples and hands-on coding.
+
+# 18-11-2024: File System with Node.js Practice
+Working with the fs module to read and write files.
+Performing file operations such as creating, deleting, and renaming files.
+
+# Task - 18-11-2024
+//agelesserthan18  -  './teenage.json'
+//ageGreaterthen18 - './senior.json'
+//nameStartsWithN  - './n.json'
+//nameGreaterthen4 - './four.json'
+//male  - './male.json'
+//female - './female.json'
+
+
+
