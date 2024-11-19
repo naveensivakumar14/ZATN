@@ -1,0 +1,12 @@
+1732031099570 : request made to /
+1732031122590 : request made to /home
+1732031129482 : request made to /about
+1732031135667 : request made to /skills
+1732031142851 : request made to /project
+1732031151335 : request made to /exit
+1732031574393 : request made to /home
+1732031579375 : request made to /skills
+1732031601403 : request made to /about
+1732031610660 : request made to /exit
+1732031648786 : request made to /chicken
+1732031793884 : request made to /home
