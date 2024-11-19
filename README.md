@@ -24,15 +24,20 @@ Practical examples and hands-on coding.
 
 # 18-11-2024: File System with Node.js Practice
 Working with the fs module to read and write files.
-Performing file operations such as creating, deleting, and renaming files.
-
-# Task - 18-11-2024
+They are performing file operations such as creating, deleting, and renaming files.
+Task - 18-11-2024
 //agelesserthan18  -  './teenage.json'
 //ageGreaterthen18 - './senior.json'
 //nameStartsWithN  - './n.json'
 //nameGreaterthen4 - './four.json'
 //male  - './male.json'
 //female - './female.json'
+
+# 19-11-2024: Creating a HTTP server using Node.js
+Understanding the http module and its role in building servers.
+Setting up a basic HTTP server to handle client requests and responses.
+Exploring routes and status codes for handling different types of requests.
+Implementing a simple server to send HTML content or JSON responses.
 
 
 
