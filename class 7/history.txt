@@ -1,0 +1,25 @@
+Operation : add, values : 10, 5, Result : 15
+Operation : sub, values : 10, 4, Result: 6O
+peration : sub, values : 2, 8, Result: 16O
+peration : sub, values : 15, 3, Result: 5O
+peration : sub, values : 15, 0, Result: Infinity
+Operation : add, values : 12, 8, Result : 20
+Operation : sub, values : 8, 2, Result: 6
+Operation : sub, values : 7, 8, Result: 56
+Operation : sub, values : 36, 6, Result: 6
+Operation : sub, values : 36, 0, Result: Infinity
+Operation : add, values : 12, 8, Result : 20
+Operation : sub, values : 36, 0, Result: Infinity
+Operation : sub, values : 7, 8, Result: 56
+Operation : add, values : 50, 50, Result : 100
+Operation : add, values : 12, 8, Result : 20
+Operation : sub, values : 22, 6, Result: 16
+Operation : sub, values : 7, 8, Result: 56
+Operation : sub, values : 8, 4, Result: 32
+Operation : sub, values : 78, 6, Result: 13
+Operation : sub, values : 78, 4, Result: 19.5
+Operation : sub, values : 140, 10, Result: 14
+Operation : sub, values : 140, 0, Result: Infinity
+Operation : sub, values : 140, 0, Result: Infinity
+Operation : sub, values : 140, 20, Result: 7
+Operation : add, values : 32, 8, Result : 40
