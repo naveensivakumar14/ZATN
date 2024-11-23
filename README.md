@@ -37,20 +37,20 @@ Task - 18-11-2024
 //male  - './male.json'
 //female - './female.json'
 
-# 19-11-2024: Creating a HTTP server using Node.js
+# 19-11-2024: Creating an HTTP server using Node.js
 
-Understanding the http module and its role in building servers.
+Understanding the HTTP module and its role in building servers.
 Setting up a basic HTTP server to handle client requests and responses.
 Exploring routes and status codes for handling different types of requests.
 Implementing a simple server to send HTML content or JSON responses.
 
 
-# 20-11-2024: Creating a HTTP serve and URL, nodemon package to create Calculator using Node.js
+# 20-11-2024: Creating an HTTP serve and URL, nodemon package to create a Calculator using Node.js
 
 Setting up an HTTP server to handle client requests and responses using Node.js.
 Parsing and managing URLs to handle different routes for calculator operations.
 Installing and using the Nodemon package for automatic server restarts during development.
-Building a basic calculator application to perform operations like addition, subtraction, multiplication, and division.
+Building a basic calculator application to perform addition, subtraction, multiplication, and division operations.
 
 
 
@@ -59,7 +59,7 @@ Building a basic calculator application to perform operations like addition, sub
 Introduction to Express JS
 Understanding the Express.js framework and its advantages for building web applications.
 Setting up and defining routes for handling various HTTP methods (GET, POST, etc.).
-Implementing dynamic routing to handle parameters and queries.
+We are implementing dynamic routing to handle parameters and queries.
 Building a simple application with multiple API endpoints using Express.js.
 
 
