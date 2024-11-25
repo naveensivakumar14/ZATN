@@ -1,13 +1,13 @@
 # ZATN - Backend Development Bootcamp
 Schedule Overview
 
-# 15-11-2024: Introduction to JavaScript
+# Class 1 : 15-11-2024: Introduction to JavaScript
 
 Overview of JavaScript basics.
 Setting up the environment.
 Understanding variables, data types, and control structures.
 
-# 16-11-2024: ES6 Basics
+#  Class 2 : 16-11-2024: ES6 Basics
 
 Key ES6 features:
 Functions: Regular, anonymous, and arrow functions.
@@ -17,7 +17,7 @@ Spread and Rest Operators: Simplifying array and object manipulation.
 indexOf: Locating elements in arrays.
 Modules: import and export.
 
-# 17-11-2024: File System with Node.js
+#  Class 3 : 17-11-2024: File System with Node.js
 
 Introduction to Node.js and its architecture.
 Exploring the Node.js File System (fs) module:
@@ -25,7 +25,7 @@ Reading and writing files.
 File manipulation and directory operations.
 Practical examples and hands-on coding.
 
-# 18-11-2024: File System with Node.js Practice
+#  Class 4 : 18-11-2024: File System with Node.js Practice
 
 Working with the fs module to read and write files.
 They are performing file operations such as creating, deleting, and renaming files.
@@ -37,7 +37,7 @@ Task - 18-11-2024
 //male  - './male.json'
 //female - './female.json'
 
-# 19-11-2024: Creating an HTTP server using Node.js
+#  Class 5 : 19-11-2024: Creating an HTTP server using Node.js
 
 Understanding the HTTP module and its role in building servers.
 Setting up a basic HTTP server to handle client requests and responses.
@@ -45,7 +45,7 @@ Exploring routes and status codes for handling different types of requests.
 Implementing a simple server to send HTML content or JSON responses.
 
 
-# 20-11-2024: Creating an HTTP serve and URL, nodemon package to create a Calculator using Node.js
+#  Class 6 : 20-11-2024: Creating an HTTP serve and URL, nodemon package to create a Calculator using Node.js
 
 Setting up an HTTP server to handle client requests and responses using Node.js.
 Parsing and managing URLs to handle different routes for calculator operations.
@@ -54,13 +54,15 @@ Building a basic calculator application to perform addition, subtraction, multip
 
 
 
-# 21-11-2024: Creating Routes Using Express JS
+#  Class 7 : 21-11-2024: Creating Routes Using Express JS
 
 Introduction to Express JS
 Understanding the Express.js framework and its advantages for building web applications.
 Setting up and defining routes for handling various HTTP methods (GET, POST, etc.).
 We are implementing dynamic routing to handle parameters and queries.
 Building a simple application with multiple API endpoints using Express.js.
+
+#  Class 8 : 25-11-2024: CRUD get routes, Thunder client testing using express js
 
 
 
