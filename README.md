@@ -68,7 +68,7 @@ Dynamic Route Parameters: We explored handling dynamic and query-based routes fo
 Thunder Client Testing: Practised testing APIs using Thunder Client to validate GET route responses.
 Error Handling: Implemented proper error handling techniques for invalid or missing data requests in Express.js.
 
-# Class 9: CRUD Operations and Thunder Client Testing in Express.js
+# Class 9: 26-11-2024: CRUD Operations and Thunder Client Testing in Express.js
 CRUD Operations Overview: Gained a comprehensive understanding of implementing all CRUD operations (GET, POST, PUT, DELETE) in Express.js.
 POST Route for Data Creation: Learned to set up POST routes to add new data and handle JSON request payloads in Express.js.
 PUT Route for Data Updates: Practiced creating PUT routes to update existing data by ID or specific criteria.
