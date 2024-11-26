@@ -63,6 +63,14 @@ We are implementing dynamic routing to handle parameters and queries.
 Building a simple application with multiple API endpoints using Express.js.
 
 #  Class 8 : 25-11-2024: CRUD get routes, Thunder client testing using express js
+Understanding CRUD Operations:
+Learned about creating GET routes in Express.js to retrieve data from the server.
+Dynamic Route Parameters:
+Explored handling dynamic and query-based routes for better data filtering.
+Thunder Client Testing:
+Practiced testing APIs using Thunder Client to validate GET route responses.
+Error Handling:
+Implemented proper error handling techniques for invalid or missing data requests in Express.js.
 
 
 
