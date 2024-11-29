@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Reyroi",
+    "todos": [
+      {
+        "Todo": "Read 5 pages"
+      },
+      {
+        "Todo": "Eat well"
+      }
+    ]
+  },
+  {
+    "name": "Arava",
+    "todos": [
+      {
+        "Todo": "Sleep well"
+      }
+    ]
+  }
+]
