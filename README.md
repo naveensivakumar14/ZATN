@@ -84,6 +84,8 @@ Working with data.json: I learned how to use a data.json file as a local databas
 Dynamic Routes for To-Do Management: Created routes for task-specific operations, such as fetching, updating, or deleting tasks by ID.
 Data Persistence with JSON: Explored reading from and writing to the data.json file to ensure task data persists between requests.
 
+# Class 11: 28-11-2024 : Promises and CRUD operations
+
 
 
 
