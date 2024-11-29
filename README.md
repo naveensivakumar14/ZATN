@@ -72,11 +72,19 @@ Error Handling: Implemented proper error handling techniques for invalid or miss
 # Class 9: 26-11-2024: CRUD Operations and Thunder Client Testing in Express.js
 CRUD Operations Overview: Gained a comprehensive understanding of implementing all CRUD operations (GET, POST, PUT, DELETE) in Express.js.
 POST Route for Data Creation: Learned to set up POST routes to add new data and handle JSON request payloads in Express.js.
-PUT Route for Data Updates: Practiced creating PUT routes to update existing data by ID or specific criteria.
-DELETE Route for Data Deletion: Explored the DELETE route to safely remove data and implement checks for non-existent resources.
+PUT Route for Data Updates: Created PUT routes to update existing data by ID or specific criteria.
+DELETE Route for Data Deletion: Explored the DELETE route to remove data and implement checks for non-existent resources safely.
 Thunder Client for API Testing: Validated CRUD operations using Thunder Client and analyzed API responses for success and error cases.
 
 # Class 10: 27-11-2024: To-do CRUD Express JS
+Creating a To-Do List with Express.js:
+Developed a basic To-Do list application backend using Express.js.
+CRUD Operations Integration: Implemented Create, Read, Update, and Delete functionalities for managing To-Do tasks.
+Working with data.json: I learned how to use a data.json file as a local database to store and manipulate To-Do list data.
+Dynamic Routes for To-Do Management: Created routes for task-specific operations, such as fetching, updating, or deleting tasks by ID.
+Data Persistence with JSON: Explored reading from and writing to the data.json file to ensure task data persists between requests.
+
+
 
 
 
