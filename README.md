@@ -76,7 +76,7 @@ PUT Route for Data Updates: Practiced creating PUT routes to update existing dat
 DELETE Route for Data Deletion: Explored the DELETE route to safely remove data and implement checks for non-existent resources.
 Thunder Client for API Testing: Validated CRUD operations using Thunder Client and analyzed API responses for success and error cases.
 
-# Class 10: 27-11-2024: To-do Express JS
+# Class 10: 27-11-2024: To-do CRUD Express JS
 
 
 
