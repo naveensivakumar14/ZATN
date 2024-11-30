@@ -86,6 +86,12 @@ Data Persistence with JSON: Explored reading from and writing to the data.json f
 
 # Class 11: 28-11-2024 : Promises and CRUD operations
 
+Introduction to Promises: Gained an understanding of JavaScript Promises, including how to handle asynchronous operations effectively.
+Promise States and Methods: Explored the states of Promises (Pending, Fulfilled, Rejected) and methods like then(), catch(), and finally() for chaining and error handling.
+Integrating Promises with CRUD: Used Promises to handle asynchronous file operations (e.g., reading and writing to data.json) while building a To-Do list application.
+Improving CRUD Functionality: Enhanced To-Do list CRUD operations by ensuring non-blocking code execution using Promises.
+Error Handling with Promises: Practised handling errors gracefully during Create, Read, Update, and Delete operations using catch() blocks.
+
 
 
 
