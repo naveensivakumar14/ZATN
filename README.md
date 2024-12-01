@@ -90,7 +90,15 @@ Introduction to Promises: Gained an understanding of JavaScript Promises, includ
 Promise States and Methods: Explored the states of Promises (Pending, Fulfilled, Rejected) and methods like then(), catch(), and finally() for chaining and error handling.
 Integrating Promises with CRUD: Used Promises to handle asynchronous file operations (e.g., reading and writing to data.json) while building a To-Do list application.
 Improving CRUD Functionality: Enhanced To-Do list CRUD operations by ensuring non-blocking code execution using Promises.
-Error Handling with Promises: Practised handling errors gracefully during Create, Read, Update, and Delete operations using catch() blocks.
+Error Handling with Promises: Handling errors gracefully during Create, Read, Update, and Delete operations using catch() blocks.
+
+# Class 12: 29-11-2024: MonogoDB CRUD and Database connectivity using Express JS
+
+Connecting MongoDB with Express.js: I learned how to establish a connection between an Express.js application and a MongoDB database using the Mongoose library.
+Defining Schemas and Models: I explored creating MongoDB schemas and models to define the structure of database documents for CRUD operations.
+Implementing MongoDB CRUD: Built Create, Read, Update, and Delete (CRUD) functionalities to interact with MongoDB collections.
+Data Validation and Middleware: Used Mongoose validation and middleware to ensure data integrity during CRUD operations.
+Testing MongoDB with Express: Tested CRUD routes connected to MongoDB using Thunder Client to verify API behaviour and database interactions.
 
 
 
