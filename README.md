@@ -105,6 +105,7 @@ Testing MongoDB with Express: Tested CRUD routes connected to MongoDB using Thun
 # class 15: Nodemailer
 # class 15: Authentication singup, sign in routes
 # class 17: Authorisation JWT, Cookies
+# class 18: OTP verfication
 
 
 
