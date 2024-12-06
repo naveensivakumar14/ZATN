@@ -100,12 +100,12 @@ Implementing MongoDB CRUD: Built Create, Read, Update, and Delete (CRUD) functio
 Data Validation and Middleware: Used Mongoose validation and middleware to ensure data integrity during CRUD operations.
 Testing MongoDB with Express: Tested CRUD routes connected to MongoDB using Thunder Client to verify API behaviour and database interactions.
 
-# class 13: Todo list MongoDB connectivity
-# class 14: Middleware
-# class 15: Nodemailer
-# class 15: Authentication singup, sign in routes
-# class 17: Authorisation JWT, Cookies
-# class 18: OTP verfication
+# class 13: 1-12-2024 Todo list MongoDB connectivity
+# class 14: 2-12-2024 Middleware
+# class 15: 3-12-2024 Nodemailer
+# class 15: 4-12-2024 Authentication singup, sign in routes
+# class 17: 5-12-2024 Authorisation JWT, Cookies
+# class 18: 6-12-2024 OTP verfication
 
 
 
