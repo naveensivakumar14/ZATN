@@ -105,7 +105,11 @@ Testing MongoDB with Express: Tested CRUD routes connected to MongoDB using Thun
 # class 15: 3-12-2024 Nodemailer
 # class 15: 4-12-2024 Authentication singup, sign in routes
 # class 17: 5-12-2024 Authorisation JWT, Cookies
-# class 18: 6-12-2024 OTP verfication
+# class 18: 6-12-2024 OTP verification
+# class 19: 7-12-2024 Authentication for user login verify
+# class 20: 9-12-2024 Multer HTML CSS ,CORS
+
+
 
 
 
