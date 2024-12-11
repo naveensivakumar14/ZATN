@@ -121,7 +121,7 @@ Sending Emails Programmatically: Learned how to compose and send emails dynamica
 HTML and Attachment Support: Added support for sending emails with HTML content and attachments.
 Error Handling in Email Sending: Handled errors gracefully, such as invalid email addresses or SMTP connection issues.
 
-# class 15: 4-12-2024 Authentication singup, sign in routes
+# class 16: 4-12-2024 Authentication singup, sign in routes
 
 # class 17: 5-12-2024 Authorisation JWT, Cookies
 
