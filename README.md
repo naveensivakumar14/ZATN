@@ -107,7 +107,8 @@ Testing MongoDB with Express: Tested CRUD routes connected to MongoDB using Thun
 # class 17: 5-12-2024 Authorisation JWT, Cookies
 # class 18: 6-12-2024 OTP verification
 # class 19: 7-12-2024 Authentication for user login verify
-# class 20: 9-12-2024 Multer HTML CSS ,CORS
+# class 20: 9-12-2024 Multer HTML CSS ,CORS to get and store the file in backend folder
+# class 21: 10-12-2024 CRUD app using HTML form submission to post and get data on the backend and store into MongoDB
 
 
 
