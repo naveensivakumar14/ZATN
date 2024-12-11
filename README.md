@@ -101,6 +101,12 @@ Data Validation and Middleware: Used Mongoose validation and middleware to ensur
 Testing MongoDB with Express: Tested CRUD routes connected to MongoDB using Thunder Client to verify API behaviour and database interactions.
 
 # class 13: 1-12-2024 Todo list MongoDB connectivity
+
+Connecting Express.js to MongoDB: Established a database connection for the To-Do list application using Mongoose and MongoDB.
+CRUD Operations with MongoDB: Implemented Create, Read, Update, and Delete operations to manage tasks in the To-Do list.
+Schema and Model Creation: Defined a schema for To-Do tasks and created a Mongoose model to interact with the database.
+Database Testing: Tested database interactions and verified the functionality of CRUD routes using Thunder Client.
+
 # class 14: 2-12-2024 Middleware
 # class 15: 3-12-2024 Nodemailer
 # class 15: 4-12-2024 Authentication singup, sign in routes
