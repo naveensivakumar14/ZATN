@@ -133,6 +133,11 @@ Error Handling in Email Sending: Handled errors gracefully, such as invalid emai
 
 # class 21: 10-12-2024 CRUD app using HTML form submission to post and get data on the backend and store into MongoDB
 
+# class 22: 11-12-2024 React JS introduction, project setup, basic react components
+
+# class 21: 12-12-2024 React Components, Form submission and backend integration
+cmd : npm i express cors mongoose nodemon
+
 
 
 
