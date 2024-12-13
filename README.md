@@ -129,7 +129,7 @@ Error Handling in Email Sending: Handled errors gracefully, such as invalid emai
 
 # class 19: 7-12-2024 Authentication for user login verify
 
-# class 20: 9-12-2024 Multer HTML CSS ,CORS to get and store the file in backend folder
+# class 20: 9-12-2024 Multer HTML CSS , CORS to get and store the file in the backend folder
 
 # class 21: 10-12-2024 CRUD app using HTML form submission to post and get data on the backend and store into MongoDB
 
@@ -137,6 +137,8 @@ Error Handling in Email Sending: Handled errors gracefully, such as invalid emai
 
 # class 23: 12-12-2024 React Components, Form submission and backend integration
 cmd : npm i express cors mongoose nodemon
+
+# class 24: 13-12-2024 Git, Github version control
 
 
 
