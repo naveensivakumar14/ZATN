@@ -94,32 +94,32 @@ Error Handling with Promises: Handling errors gracefully during Create, Read, Up
 
 # Class 12: 29-11-2024: MonogoDB CRUD and Database connectivity using Express JS
 
-Connecting MongoDB with Express.js: I learned how to establish a connection between an Express.js application and a MongoDB database using the Mongoose library.
-Defining Schemas and Models: I explored creating MongoDB schemas and models to define the structure of database documents for CRUD operations.
-Implementing MongoDB CRUD: Built Create, Read, Update, and Delete (CRUD) functionalities to interact with MongoDB collections.
-Data Validation and Middleware: Used Mongoose validation and middleware to ensure data integrity during CRUD operations.
-Testing MongoDB with Express: Tested CRUD routes connected to MongoDB using Thunder Client to verify API behaviour and database interactions.
+• Connecting MongoDB with Express.js: I learned how to establish a connection between an Express.js application and a MongoDB database using the Mongoose library.
+• Schemas and Models: I explored creating MongoDB schemas and models to define the structure of database documents for CRUD operations.
+• Implementing MongoDB CRUD: Built Create, Read, Update, and Delete (CRUD) functionalities to interact with MongoDB collections.
+• Data Validation and Middleware: Used Mongoose validation and middleware to ensure data integrity during CRUD operations.
+• Testing MongoDB with Express: Tested CRUD routes connected to MongoDB using Thunder Client to verify API behaviour and database interactions.
 
 # class 13: 1-12-2024 Todo list MongoDB connectivity
 
-Connecting Express.js to MongoDB: Established a database connection for the To-Do list application using Mongoose and MongoDB.
-CRUD Operations with MongoDB: Implemented Create, Read, Update, and Delete operations to manage tasks in the To-Do list.
-Schema and Model Creation: Defined a schema for To-Do tasks and created a Mongoose model to interact with the database.
-Database Testing: Tested database interactions and verified the functionality of CRUD routes using Thunder Client.
+• Connecting Express.js to MongoDB: Established a database connection for the To-Do list application using Mongoose and MongoDB.
+• CRUD Operations with MongoDB: Implemented Create, Read, Update, and Delete operations to manage tasks in the To-Do list.
+• Schema and Model Creation: Defined a schema for To-Do tasks and created a Mongoose model to interact with the database.
+• Database Testing: Tested database interactions and verified the functionality of CRUD routes using Thunder Client.
 
 # class 14: 2-12-2024 Middleware "Functions that process requests between client and server"
 
-Introduction to Middleware: Learned about middleware functions in Express.js and their role in request-response cycles.
-Types of Middleware: Explored built-in, third-party, and custom middleware for handling tasks like logging, authentication, and parsing data.
-Middleware Chaining: Practised chaining multiple middleware functions for processing requests sequentially.
-Error-Handling Middleware: Implemented custom error-handling middleware to catch and manage errors globally.
+• Introduction to Middleware: Learned about middleware functions in Express.js and their role in request-response cycles.
+• Types of Middleware: Explored built-in, third-party, and custom middleware for handling tasks like logging, authentication, and parsing data.
+• Middleware Chaining: Practised chaining multiple middleware functions for processing requests sequentially.
+• Error-Handling Middleware: Implemented custom error-handling middleware to catch and manage errors globally.
 
 # class 15: 3-12-2024 Nodemailer
 
-Setting Up Nodemailer: Configured Nodemailer in an Express.js app to send emails using SMTP and other transport methods.
-Sending Emails Programmatically: Learned how to compose and send emails dynamically with custom subjects, recipients, and content.
-HTML and Attachment Support: Added support for sending emails with HTML content and attachments.
-Error Handling in Email Sending: Handled errors gracefully, such as invalid email addresses or SMTP connection issues.
+• Setting Up Nodemailer: Configured Nodemailer in an Express.js app to send emails using SMTP and other transport methods.
+• Sending Emails Programmatically: Learned how to compose and send emails dynamically with custom subjects, recipients, and content.
+• HTML and Attachment Support: Added support for sending emails with HTML content and attachments.
+• Error Handling in Email Sending: Handled errors gracefully, such as invalid email addresses or SMTP connection issues.
 
 # class 16: 4-12-2024 Authentication singup, sign in routes
 
@@ -139,6 +139,12 @@ Error Handling in Email Sending: Handled errors gracefully, such as invalid emai
 cmd : npm i express cors mongoose nodemon
 
 # class 24: 13-12-2024 Git, Github version control
+
+# class 25: Github working with branch
+
+• folk or copy code from the main branch of repository
+• working on the code and push into own branch ( git push origin reyroi)
+• making pull request to main branch
 
 
 
