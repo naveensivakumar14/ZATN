@@ -11,7 +11,7 @@ Understanding variables, data types, and control structures.
 #  Class 2 : 16-11-2024: ES6 Basics
 
 Key ES6 features:
-Functions: Regular, anonymous, and arrow functions.\n
+Functions: Regular, anonymous, and arrow functions.
 Callback Functions: Understanding asynchronous JavaScript.
 Array Methods: map(), filter(), and their applications.
 Spread and Rest Operators: Simplifying array and object manipulation.
