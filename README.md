@@ -1,6 +1,6 @@
 # ZATN - Backend Development Bootcamp
 Schedule Overview
-November -15 to
+November 15 to December 31
 
 # Class 1 : 15-11-2024: Introduction to JavaScript
 
