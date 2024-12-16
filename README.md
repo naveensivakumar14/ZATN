@@ -136,15 +136,20 @@ Error Handling with Promises: Handling errors gracefully during Create, Read, Up
 # class 22: 11-12-2024 React JS introduction, project setup, basic react components
 
 # class 23: 12-12-2024 React Components, Form submission and backend integration
-cmd : npm i express cors mongoose nodemon
+cmd: npm i express cors mongoose nodemon
 
 # class 24: 13-12-2024 Git, Github version control
 
-# class 25: Github working with branch
+# class 25: 14-12-2024 Github working with branch
 
-• folk or copy code from the main branch of repository
-• working on the code and push into own branch ( git push origin reyroi)
-• making pull request to main branch
+• folk or copy code from the main branch of the repository
+• working on the code and pushing into own branch ( git push origin reyroi)
+• making pull requests to the main branch
+
+# class 26: MySQL workbench db queries and connecting MySQL database into backend server.
+
+•CRUD Operation using MySQL database
+ 
 
 
 
