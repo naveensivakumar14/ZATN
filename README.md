@@ -146,12 +146,12 @@ cmd: npm i express cors mongoose nodemon
 • working on the code and pushing into own branch ( git push origin reyroi)
 • making pull requests to the main branch
 
-# class 26: MySQL workbench db queries and connecting MySQL database into backend server.
+# class 26: 15-12-2024 MySQL workbench db queries and connecting MySQL database into backend server.
 
 • Practicing MySQL queries at the beginner level.
 • CRUD Operation using MySQL database
 
-# class 27: Socket.io for chat application project 
+# class 27: 16-12-2024 Socket.io for chat application project 
 
 cmd: npm i socket.io
 
