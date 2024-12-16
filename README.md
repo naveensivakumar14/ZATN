@@ -46,7 +46,7 @@ Exploring routes and status codes for handling different types of requests.
 Implementing a simple server to send HTML content or JSON responses.
 
 
-#  Class 6 : 20-11-2024: Creating an HTTP serve and URL, nodemon package to create a Calculator using Node.js
+#  Class 6 : 20-11-2024: Creating an HTTP server and URL, nodemon package to create a Calculator using Node.js
 
 Setting up an HTTP server to handle client requests and responses using Node.js.
 Parsing and managing URLs to handle different routes for calculator operations.
@@ -148,7 +148,18 @@ cmd: npm i express cors mongoose nodemon
 
 # class 26: MySQL workbench db queries and connecting MySQL database into backend server.
 
-•CRUD Operation using MySQL database
+• Practicing MySQL queries at the beginner level.
+• CRUD Operation using MySQL database
+
+# class 27: Socket.io for chat application project 
+
+cmd: npm i socket.io
+
+• Basic understanding of server-side rendering
+• Understanding the basic workflow of socket.io
+• Connect the backend with socket.io to emit the user-msg on client
+
+
  
 
 
