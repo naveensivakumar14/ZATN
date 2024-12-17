@@ -161,6 +161,10 @@ cmd: npm i socket.io
 
 # class 28: 17-12-2024 MVC Pattern Model view controller
 
+• Understanding MVC: Separation of application logic into Model, View, and Controller.
+• Model: Handles database structure and data management.
+• Controller: Manages incoming requests and processes responses
+
 
  
 
