@@ -157,7 +157,9 @@ cmd: npm i socket.io
 
 • Basic understanding of server-side rendering
 • Understanding the basic workflow of socket.io
-• Connect the backend with socket.io to emit the user-msg on client
+• Connect the backend with socket.io to emit the user-msg on the client
+
+# class 28: 17-12-2024 MVC Pattern Model view controller
 
 
  
