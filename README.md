@@ -167,6 +167,10 @@ cmd: npm i socket.io
 
 # class 29 - 18-12-2024 URL Shortner --project
 
+# 19-12-2024
+React, Tailwind project practice
+URL Shortnet backend project practice
+
  
 
 
