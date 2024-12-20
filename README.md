@@ -171,6 +171,10 @@ cmd: npm i socket.io
 React, Tailwind project practice
 URL Shortnet backend project practice
 
+# class 30 : 20-12-2024 URL Shortner 
+
+• create short_id route
+• redirect short_id route
  
 
 
