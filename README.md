@@ -165,7 +165,7 @@ cmd: npm i socket.io
 • Model: Handles database structure and data management.
 • Controller: Manages incoming requests and processes responses
 
-# class 29 - 18-12-2024 URL Shortner - project
+# class 29: 18-12-2024 URL Shortner - project
 
 • register user signup route
 • login route
@@ -177,12 +177,12 @@ cmd: npm i socket.io
 • React, Tailwind project practice
 •  URL Shortnet backend project practice
 
-# class 30 : 20-12-2024 URL Shortner 
+# class 30: 20-12-2024 URL Shortner 
 
 • create short_id route
 • redirect short_id route
  
-# class 31 : 21-12-2024 Backend Completion URL Shortner
+# class 31: 21-12-2024 Backend Completion URL Shortner front-end
 
 
 
