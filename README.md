@@ -187,6 +187,7 @@ cmd: npm i socket.io
 • history route
 • front-end development - Signup, Login, Home page React JS
 
+# class 32: 22-12-2024 Zoho Developer intraction
 
 
 
