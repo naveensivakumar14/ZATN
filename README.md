@@ -184,6 +184,9 @@ cmd: npm i socket.io
  
 # class 31: 21-12-2024 Backend Completion URL Shortner front-end
 
+• history route
+• front-end development - Signup, Login, Home page React JS
+
 
 
 
