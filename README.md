@@ -190,7 +190,8 @@ cmd: npm i socket.io
 # class 32: 22-12-2024 Zoho Developer interaction
 # class 33: 23-12-2024 URL Shortener frontend, backend project completion
 # class 34: 24-12-2024 Project Contact Manager Introduction
-# class 35: 26-12-2024 
+# class 35: 26-12-2024 Contact manager completion
+# class 36: 27-12-2024 Hosting on render url shortner 
 
 
 
