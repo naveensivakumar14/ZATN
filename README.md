@@ -2,8 +2,9 @@
 Schedule Overview
 November 15 to December 31 (46 days)
 
-# Class 1 : 15-11-2024: Introduction to JavaScript
+# Class 1 : 15-11-2024: Introduction to JavaScript 
 
+Demo class
 Overview of JavaScript basics.
 Setting up the environment.
 Understanding variables, data types, and control structures.
