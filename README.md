@@ -195,10 +195,16 @@ cmd: npm i socket.io
 # class 36: 27-12-2024 Hosting on render url shorter 
 
 • Render hosting class 
-• hosting url shortner project on render
+• Hosting URL shortener project on the render
 • general discussion about learning and career
 
 Preparing for backend interviews
+
+Javacript
+ES6
+Express basic routes
+CRUD
+
 
 
 
