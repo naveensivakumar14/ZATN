@@ -1,0 +1,5 @@
+Basic Javascript 
+Document Object Model
+task 1 - random backgroundcolor change
+Animation
+Event listeners
