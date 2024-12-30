@@ -198,6 +198,8 @@ cmd: npm i socket.io
 • hosting url shortner project on render
 • general discussion about learning and career
 
+Preparing for backend interviews
+
 
 
 
