@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Karan",
+    "age": 17,
+    "gender": "male"
+  },
+  {
+    "name": "Reyroi",
+    "age": 23,
+    "gender": "male"
+  },
+  {
+    "name": "Aarav",
+    "age": 27,
+    "gender": "male"
+  },
+  {
+    "name": "Ishaan",
+    "age": 30,
+    "gender": "male"
+  },
+  {
+    "name": "Vikram",
+    "age": 28,
+    "gender": "male"
+  },
+  {
+    "name": "Dev",
+    "age": 25,
+    "gender": "male"
+  },
+  {
+    "name": "Rahul",
+    "age": 32,
+    "gender": "male"
+  },
+  {
+    "name": "Aakash",
+    "age": 34,
+    "gender": "male"
+  },
+  {
+    "name": "Manish",
+    "age": 33,
+    "gender": "male"
+  },
+  {
+    "name": "Aditya",
+    "age": 35,
+    "gender": "male"
+  }
+]
