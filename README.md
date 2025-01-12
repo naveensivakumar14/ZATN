@@ -200,13 +200,16 @@ cmd: npm i socket.io
 
 Preparing for backend interviews
 
-Javacript
-ES6
-Express basic routes
-CRUD
+• Javascript
+• ES6
+• Node js
+• Express js basics
+• Express basic routes
+• CRUD
+• MongoDB connectivity
 
 
-# Jan 1 2025 to Jan 09 NTT work High volume
+
 
 
 
