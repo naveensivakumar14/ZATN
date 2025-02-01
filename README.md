@@ -209,6 +209,11 @@ Preparing for backend interviews
 • MongoDB connectivity
 
 
+# 2025 Learning
+
+- January -- backend C8, kovian interview, NTT high volumes, Resto project (25%)
+
+
 
 
 
