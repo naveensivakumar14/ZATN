@@ -211,8 +211,8 @@ Preparing for backend interviews
 
 # 2025 Learning
 
-- January -- backend C8, kovian interview, NTT high volumes, Resto project (25%)
-- - January -- Resto project (100%), React JS Learnz Development Hub
+- January  -- backend C8, kovian interview, NTT high volumes, Resto project (25%)
+- February -- Resto project (100%), React JS Learnz Development Hub
 
 
 
