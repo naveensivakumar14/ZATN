@@ -213,8 +213,11 @@ Preparing for backend interviews
 
 - January  -- backend C8, kovian interview, NTT high volumes, Resto project (25%)
 - February -- Resto project (100%), React JS Learnz Development Hub
-- March -- Javascript, React JS Learnz Development Hub Classes, Arun Icecream Clone project (100%)
-           7-3-2025 Mock interview failed 
+- March -- 
+• Javascript, React JS Learnz Development Hub Classes, 
+• Arun Icecream Clone project (100%)
+• 7-3-2025 Mock interview failed
+• 14-3-2025 UST Rejection
 
 
 
