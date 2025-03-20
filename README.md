@@ -218,6 +218,8 @@ Preparing for backend interviews
 • Arun Icecream Clone project (100%)
 • 7-3-2025 Mock interview failed
 • 14-3-2025 UST Rejection
+• 17-3-2025, 18-3-2025 Thiruchendhur
+
 
 
 
