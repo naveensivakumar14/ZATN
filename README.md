@@ -215,11 +215,11 @@ Preparing for backend interviews
 - February -- Resto project (100%), React JS Learnz Development Hub
 - March -- 
 • Javascript, React JS Learnz Development Hub Classes, 
-• Arun Icecream Clone project (100%)
+• Arun Icecream Clone project (50%)
 • 7-3-2025 Mock interview failed
 • 14-3-2025 UST Rejection
 • 17-3-2025, 18-3-2025 Thiruchendhur
-
+• 27-3-2025 - moved to THP team in NTT Data
 
 
 
