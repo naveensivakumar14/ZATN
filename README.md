@@ -222,6 +222,7 @@ Preparing for backend interviews
 • 27-3-2025 - moved to THP team in NTT Data
 
 April 2025
+• Restarted web development practice
 
 
 
