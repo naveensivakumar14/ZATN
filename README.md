@@ -223,6 +223,14 @@ Preparing for backend interviews
 
 - April 2025
 • Restarted web development practice
+• Still working in Arun icecream clone site
+• Restart learning 20th April
+
+• OFFICE
+• Moved to the THP team night shifts
+• 16,17,18 - KE Error escalation
+• 18th Office visit, one-to-one production issue meeting
+
 
 
 
