@@ -203,10 +203,10 @@ Preparing for backend interviews
 • Javascript
 • ES6
 • Node js
-• Express js basics
+• Express.js basics
 • Express basic routes
 • CRUD
-• MongoDB connectivity
+• Mongodb connectivity
 
 
 # 2025 Learning
@@ -214,21 +214,21 @@ Preparing for backend interviews
 - January  -- backend C8, kovian interview, NTT high volumes, Resto project (25%)
 - February -- Resto project (100%), React JS Learnz Development Hub
 - March -- 
-• Javascript, React JS Learnz Development Hub Classes, 
+• JavaScript, React JS Learnz Development Hub Classes, 
 • Arun Icecream Clone project (50%)
 • 7-3-2025 Mock interview failed
 • 14-3-2025 UST Rejection
 • 17-3-2025, 18-3-2025 Thiruchendhur
-• 27-3-2025 - moved to THP team in NTT Data
+• 27-3-2025 - moved to the THP team at NTT Data
 
 - April 2025
 • Restarted web development practice
-• Still working in Arun icecream clone site
+• Still working on the Arun ice cream clone site
 • Restart learning 20th April
 
-• OFFICE
+• Office Work
 • Moved to the THP team night shifts
-• 16,17,18 - KE Error escalation
+• 16,17,18 - KE Client Error escalation meetings
 • 18th Office visit, one-to-one production issue meeting
 
 
