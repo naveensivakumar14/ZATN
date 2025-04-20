@@ -221,7 +221,7 @@ Preparing for backend interviews
 • 17-3-2025, 18-3-2025 Thiruchendhur
 • 27-3-2025 - moved to THP team in NTT Data
 
-April 2025
+- April 2025
 • Restarted web development practice
 
 
