@@ -230,7 +230,11 @@ Preparing for backend interviews
 • Moved to the THP team night shifts
 • 16,17,18 - KE Client Error escalation meetings
 • 18th Office visit, one-to-one production issue meeting
-• 5 days plan 26
+
+- May 2025 -
+• Restarting self learning
+• Preparing for Zoho TSE
+
 
 
 
