@@ -219,21 +219,22 @@ Preparing for backend interviews
 • 7-3-2025 Mock interview failed
 • 14-3-2025 UST Rejection
 • 17-3-2025, 18-3-2025 Thiruchendhur
-• 27-3-2025 - moved to the THP team at NTT Data
+• 27-3-2025 - moved to the THP 
 
 - April 2025
-• Restarted web development practice
 • Still working on the Arun ice cream clone site
-• Restart learning 20th April
 
-• Office Work
-• Moved to the THP team night shifts
+• Office
+• Moved to the THP night shifts
 • 16,17,18 - KE Client Error escalation meetings
 • 18th Office visit, one-to-one production issue meeting
+• Error escalation meetings
 
 - May 2025 -
 • Restarting self learning
-• Preparing for Zoho TSE
+• 7 May : Adhaar updation & PF docs updation
+• Preparing interview preps needed
+• 
 
 
 
