@@ -232,7 +232,7 @@ Preparing for backend interviews
 
 - May 2025 -
 • Restarting self learning
-• 7 May : Adhaar updation & PF docs updation
+• 7-5-2025: Adhaar updation & PF docs updation
 • Preparing interview preps needed
 • 
 
