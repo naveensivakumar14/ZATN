@@ -211,10 +211,19 @@ Preparing for backend interviews
 
 # 2025 Learning
 
-- January  -- backend C8, kovian interview, NTT high volumes, Resto project (25%)
-- February -- Resto project (100%), React JS Learnz Development Hub
+- January  -- 
+• backend C8, 
+• Kovian interview, 
+• NTT high volumes, 
+• Resto project (25%)
+
+- February -- 
+• Resto project (100%), 
+• React JS Learnz Development Hub
+
 - March -- 
-• JavaScript, React JS Learnz Development Hub Classes, 
+• JavaScript,
+• React JS Learnz Development Hub Classes, 
 • Arun Icecream Clone project (50%)
 • 7-3-2025 Mock interview failed
 • 14-3-2025 UST Rejection
@@ -223,8 +232,7 @@ Preparing for backend interviews
 
 - April 2025
 • Still working on the Arun ice cream clone site
-
-• Office
+• Office meetings
 • Moved to the THP night shifts
 • 16,17,18 - KE Client Error escalation meetings
 • 18th Office visit, one-to-one production issue meeting
@@ -234,7 +242,8 @@ Preparing for backend interviews
 • Restarting self learning
 • 7-5-2025: Adhaar updation & PF docs updation
 • Preparing interview preps needed
-• 
+• 24-5-2025: Zoho TSE Round 1 Successfully Completed at HCAS Cbe
+
 
 
 
