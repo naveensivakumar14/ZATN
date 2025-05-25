@@ -93,7 +93,7 @@ Integrating Promises with CRUD: Used Promises to handle asynchronous file operat
 Improving CRUD Functionality: Enhanced To-Do list CRUD operations by ensuring non-blocking code execution using Promises.
 Error Handling with Promises: Handling errors gracefully during Create, Read, Update, and Delete operations using catch() blocks.
 
-# Class 12: 29-11-2024: MonogoDB CRUD and Database connectivity using Express JS
+# Class 12: 29-11-2024: MongoDB CRUD and Database connectivity using Express JS
 
 • Connecting MongoDB with Express.js: I learned how to establish a connection between an Express.js application and a MongoDB database using the Mongoose library.
 • Schemas and Models: I explored creating MongoDB schemas and models to define the structure of database documents for CRUD operations.
@@ -122,19 +122,19 @@ Error Handling with Promises: Handling errors gracefully during Create, Read, Up
 • HTML and Attachment Support: Added support for sending emails with HTML content and attachments.
 • Error Handling in Email Sending: Handled errors gracefully, such as invalid email addresses or SMTP connection issues.
 
-# class 16: 4-12-2024 Authentication singup, sign in routes
+# class 16: 4-12-2024 Authentication signup, sign in routes
 
 # class 17: 5-12-2024 Authorisation JWT, Cookies
 
 # class 18: 6-12-2024 OTP verification using nodemailer
 
-# class 19: 7-12-2024 Authentication for user login verify
+# class 19: 7-12-2024 Authentication for user login verification
 
-# class 20: 9-12-2024 Multer HTML CSS , CORS to get and store the file in the backend folder
+# class 20: 9-12-2024 Multer HTML CSS, CORS to get and store the file in the backend folder
 
 # class 21: 10-12-2024 CRUD app using HTML form submission to post and get data on the backend and store into MongoDB
 
-# class 22: 11-12-2024 React JS introduction, project setup, basic react components
+# class 22: 11-12-2024 React JS introduction, project setup, basic React components
 
 # class 23: 12-12-2024 React Components, Form submission and backend integration
 cmd: npm i express cors mongoose nodemon
@@ -147,9 +147,9 @@ cmd: npm i express cors mongoose nodemon
 • working on the code and pushing into own branch ( git push origin reyroi)
 • making pull requests to the main branch
 
-# class 26: 15-12-2024 MySQL workbench db queries and connecting MySQL database into backend server.
+# class 26: 15-12-2024 MySQL workbench db queries and connecting MySQL database to backend server.
 
-• Practicing MySQL queries at the beginner level.
+• Practising MySQL queries at the beginner level.
 • CRUD Operation using MySQL database
 
 # class 27: 16-12-2024 Socket.io for chat application project 
