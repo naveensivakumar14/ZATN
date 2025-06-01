@@ -247,7 +247,7 @@ Preparing for backend interviews
 
 - June 2025 -
 • Restarting self learning
-• Zoho TSE interview cleared, Zoho Offer received.(m)
+• Zoho TSE interview cleared, Zoho Offer received. (murugan)
 • Office visit THP Process KT (2-6-2025 to 13-6-2025)
 
 
