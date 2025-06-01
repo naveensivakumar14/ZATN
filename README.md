@@ -243,6 +243,13 @@ Preparing for backend interviews
 • 7-5-2025: Adhaar updation & PF docs updation
 • Preparing interview preps needed
 • 24-5-2025: Zoho TSE Round 1 Successfully Completed at HCAS Cbe
+• 29-5-2025: Zoho TSE Round 1 Successfully Cleared
+
+- June 2025 -
+• Restarting self learning
+• Zoho TSE interview cleared, Zoho Offer received.(m)
+• Office visit THP Process KT (2-6-2025 to 13-6-2025)
+
 
 
 
