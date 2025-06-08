@@ -246,6 +246,8 @@ Preparing for backend interviews
 • 29-5-2025: Zoho TSE Round 1 Successfully Cleared
 
 - June 2025 -
+
+Goal : Complete Arun ice cream project, restart web dev, english 
 • Restarting self learning
 • Zoho TSE interview cleared, Zoho Offer received. (Murugan)
 • Office visit THP Process KT (2-6-2025 to 13-6-2025)
