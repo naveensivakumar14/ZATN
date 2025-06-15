@@ -249,10 +249,11 @@ Preparing for backend interviews
 
 Goal : Complete Arun ice cream project, restart web dev, english 
 • Restarting self learning
-• Zoho TSE interview cleared, Zoho Offer received. (Murugan)
+• Zoho TSE interview Rejection (4-6-2025)
 • Office visit THP Process KT (2-6-2025 to 13-6-2025)
 
   • Week 1 THP Training completed ( OCR, Webkey Corro, TMP HCFA, Public HCFA, PPD)
+  • Week 2 THP Training completed ( 3 days Training, 2 days Formworks pending works)
 
 
 
