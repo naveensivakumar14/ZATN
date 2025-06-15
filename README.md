@@ -247,7 +247,7 @@ Preparing for backend interviews
 
 - June 2025 -
 
-Goal : Complete Arun ice cream project, restart web dev, english 
+Goal: Complete the Arun ice cream project, restart web dev, and 10% English 
 • Restarting self learning
 • Zoho TSE interview Rejection (4-6-2025)
 • Office visit THP Process KT (2-6-2025 to 13-6-2025)
