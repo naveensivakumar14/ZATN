@@ -206,7 +206,7 @@ Preparing for backend interviews
 • Express.js basics
 • Express basic routes
 • CRUD
-• Mongodb connectivity
+• MongoDB connectivity
 
 
 # 2025 Learning
@@ -241,6 +241,7 @@ Preparing for backend interviews
 - May 2025 -
 • Restarting self learning
 • 7-5-2025: Adhaar updation & PF docs updation
+• 18-5-2025 - Dermatology consultation 
 • Preparing interview preps needed
 • 24-5-2025: Zoho TSE Round 1 Successfully Completed at HCAS Cbe
 • 29-5-2025: Zoho TSE Round 1 Successfully Cleared
@@ -248,13 +249,15 @@ Preparing for backend interviews
 - June 2025 -
 
 Goal: Complete the Arun ice cream project, restart web dev, and 10% English 
-• Restarting self learning
+• Restarting self learning (171D)
 • Zoho TSE interview Rejection (4-6-2025)
 • Office visit THP Process KT (2-6-2025 to 13-6-2025)
+• GFC Session 1 doctor consultation (19-6-2025)
 
+THP Process Transition
   • Week 1 THP Training completed ( OCR, Webkey Corro, TMP HCFA, Public HCFA, PPD)
   • Week 2 THP Training completed ( 3 days Training, 2 days Formworks pending works)
-
+  • Week 3 THP Training completed (1-day feedback meeting, 20-6-2025)
 
 
 
