@@ -254,6 +254,7 @@ Goal: Complete the Arun ice cream project, restart web dev, and 10% English
 • Office visit THP Process KT (2-6-2025 to 13-6-2025)
 • GFC Session 1 doctor consultation (19-6-2025)
 
+
 THP Process Transition
   • Week 1 THP Training completed ( OCR, Webkey Corro, TMP HCFA, Public HCFA, PPD)
   • Week 2 THP Training completed ( 3 days Training, 2 days Formworks pending works)
