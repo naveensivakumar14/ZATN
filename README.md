@@ -252,8 +252,9 @@ Goal: Complete the Arun ice cream project, restart web dev, and 10% English
 • Restarting self learning (171D)
 • Zoho TSE interview Rejection (4-6-2025)
 • Office visit THP Process KT (2-6-2025 to 13-6-2025)
+• 3 years laptop (18-6-2025)
 • GFC Session 1 doctor consultation (19-6-2025)
-
+• Service duration (2 years 3 months) -(27-6-2025)
 
 THP Process Transition
   • Week 1 THP Training completed ( OCR, Webkey Corro, TMP HCFA, Public HCFA, PPD)
