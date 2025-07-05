@@ -252,15 +252,19 @@ Goal: Complete the Arun ice cream project, restart web dev, and 10% English
 • Restarting self learning (171D)
 • Zoho TSE interview Rejection (4-6-2025)
 • Office visit THP Process KT (2-6-2025 to 13-6-2025)
-• 3-year laptop (18-6-2025)
+• 3-year laptop warranty extended- payment done (18-6-2025)
 • GFC Session 1 doctor consultation (19-6-2025)
 • Service duration (2 years 3 months), First Methyl Cobalamine 1500 mcg injection -(27-6-2025)
-• Monthly sepending closed
+• Monthly spending closed
 
 THP Process Transition
   • Week 1 THP Training completed ( OCR, Webkey Corro, TMP HCFA, Public HCFA, PPD)
   • Week 2 THP Training completed ( 3 days Training, 2 days Formworks pending works)
   • Week 3 THP Training completed (1-day feedback meeting, 20-6-2025)
+
+July 2025
+
+• Started learning again (01-07-2025)
 
 
 
