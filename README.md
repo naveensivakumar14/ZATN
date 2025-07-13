@@ -265,7 +265,7 @@ THP Process Transition
 July 2025
 
 • Started learning again (01-07-2025)
-
+• Amazon catalogue assistance job application (12-07-2025)
 
 
 
