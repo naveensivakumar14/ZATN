@@ -264,9 +264,12 @@ THP Process Transition
 
 July 2025
 
-• Started learning again (01-07-2025)
 • Amazon catalogue assistance job application (12-07-2025)
 • Arun ice cream project router updated (19-07-2025)
+
+August 2025
+• GFC 2 (07-08-2025)
+• Arun icecream project restart (12.08.2025)
 
 
 
