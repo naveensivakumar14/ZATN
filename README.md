@@ -202,7 +202,7 @@ Preparing for backend interviews
 
 • Javascript
 • ES6
-• Node js
+• Node.js
 • Express.js basics
 • Express basic routes
 • CRUD
