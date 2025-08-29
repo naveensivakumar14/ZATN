@@ -147,7 +147,7 @@ cmd: npm i express cors mongoose nodemon
 • working on the code and pushing into own branch ( git push origin reyroi)
 • making pull requests to the main branch
 
-# class 26: 15-12-2024 MySQL workbench db queries and connecting MySQL database to backend server.
+# class 26: 15-12-2024 MySQL Workbench Database DB queries and connecting MySQL database to backend server.
 
 • Practising MySQL queries at the beginner level.
 • CRUD Operation using MySQL database
@@ -158,9 +158,9 @@ cmd: npm i socket.io
 
 • Basic understanding of server-side rendering
 • Understanding the basic workflow of socket.io
-• Connect the backend with socket.io to emit the user-msg on the client
+• Connect the backend with socket.io to emit the user message on the client
 
-# class 28: 17-12-2024 MVC Pattern Model view controller
+# class 28: 17-12-2024 MVC Pattern Model, View, Controller
 
 • Understanding MVC: Separation of application logic into Model, View, and Controller.
 • Model: Handles database structure and data management.
@@ -186,7 +186,7 @@ cmd: npm i socket.io
 # class 31: 21-12-2024 Backend Completion URL Shortner front-end
 
 • history route
-• front-end development - Signup, Login, Home page React JS
+• front-end development - Signup, Login, Home page, React JS
 
 # class 32: 22-12-2024 Zoho Developer interaction
 # class 33: 23-12-2024 URL Shortener frontend, backend project completion
@@ -270,7 +270,7 @@ July 2025
 August 2025
 • GFC 2 (07-08-2025)
 • Arun icecream project restart (12.08.2025)
-• Zoho TSE (10-8-2025)
+• Zoho TSE (10-8-2025) Application Rejected on
 
 
 
