@@ -270,7 +270,7 @@ July 2025
 August 2025
 • GFC 2 (07-08-2025)
 • Arun icecream project restart (12.08.2025)
-• Zoho TSE (10-8-2025) Application Rejected on
+• Zoho TSE (10-8-2025) Application Rejected on (19-08-2025)
 
 
 
