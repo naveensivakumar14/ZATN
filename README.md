@@ -273,6 +273,10 @@ August 2025
 • Zoho TSE (10-8-2025) Application Rejected on (19-08-2025)
 
 September 2025
+• Arun icecream front end completed (3-9-2025)
+• Cognizant Referral (5-9-2025)
+• Office Visit (5-9-2025)
+• Backend basics (18-9-2025 to 30-9-2025)
 
 
 
