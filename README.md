@@ -62,7 +62,7 @@ Setting up and defining routes for handling various HTTP methods (GET, POST, etc
 We are implementing dynamic routing to handle parameters and queries.
 Building a simple application with multiple API endpoints using Express.js.
 
-#  Class 8 : 25-11-2024: CRUD get routes, Thunder client testing using express js
+#  Class 8 : 25-11-2024: CRUD get routes, Thunder client testing using Express.js
 
 Understanding CRUD Operations: Learned about creating GET routes in Express.js to retrieve data from the server.
 Dynamic Route Parameters: We explored handling dynamic and query-based routes for better data filtering.
