@@ -276,7 +276,8 @@ September 2025
 • Arun icecream front end completed (3-9-2025)
 • Cognizant Referral (5-9-2025)
 • Office Visit (5-9-2025)
-• Backend basics (21-9-2025 to 30-9-2025)
+• Backend basics (20-9-2025 to 30-9-2025)
+• Arun icecream LinkedIn post and backend start (20-9-2025)
 
 
 
