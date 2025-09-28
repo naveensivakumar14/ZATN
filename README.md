@@ -279,7 +279,8 @@ September 2025
 • Office Visit (5-9-2025)
 • Backend basics (20-9-2025 to 30-9-2025)
 • Arun icecream LinkedIn post and backend start (20-9-2025)
-
+• GFC 3 (26-09-2025)
+• Express server Arun icecream (28-09-2025)
 
 
 
