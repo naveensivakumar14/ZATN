@@ -210,7 +210,7 @@ Preparing for backend interviews
 • MongoDB connectivity
 
 
-# 2025 Learning
+# 2025
 
 - January  -- 
 • backend C8, 
