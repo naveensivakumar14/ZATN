@@ -16,7 +16,7 @@ Key ES6 features:
 Functions: Regular, anonymous, and arrow functions.
 Callback Functions: Understanding asynchronous JavaScript.
 Array Methods: map(), filter(), and their applications.
-Spread and Rest Operators: Simplifying array and object manipulation.
+Spread and Rest Operators: Simplifying Array and Object Manipulation.
 indexOf: Locating elements in arrays.
 Modules: import and export.
 
