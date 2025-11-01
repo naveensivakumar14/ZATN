@@ -288,6 +288,9 @@ October 2025
 • Office visit (10-10-2025)
 • Arun icecream backend 
 • Cognizant Junior Software Engineer (15-10-2025)
+• Synthesis HR Call (30-10-2025)
+
+November 2025
 
 
 
