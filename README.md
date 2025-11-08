@@ -291,6 +291,8 @@ October 2025
 • Synthesis HR Call (30-10-2025)
 
 November 2025
+• Infosys BPM HC (3-11-2025)
+• 
 
 
 
