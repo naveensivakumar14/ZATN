@@ -292,7 +292,7 @@ October 2025
 
 November 2025
 • Infosys BPM HC (3-11-2025)
-• 
+• Arun ice cream backend (10-11-2025)
 
 
 
