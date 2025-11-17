@@ -292,7 +292,8 @@ October 2025
 
 November 2025
 • Infosys BPM HC (3-11-2025)
-• Arun ice cream backend (10-11-2025)
+• ZATN RESTART (10-11-2025)
+• JR React JS Developer annular technologies (17-11-2025)
 
 
 
