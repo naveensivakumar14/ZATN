@@ -296,7 +296,7 @@ November 2025
 • JR React JS Developer annular technologies (17-11-2025)
 • Greencart MERN Project (21-11-2025)
 • Davinci Resolve (24-11-2025)
-
+• Laptop services for hinge issue (28-11-2025)
 
 
 
