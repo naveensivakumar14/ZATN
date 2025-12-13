@@ -293,12 +293,15 @@ October 2025
 November 2025
 • Infosys BPM HC (3-11-2025)
 • ZATN RESTART (10-11-2025)
+• Office Visit (14-11-2025)
 • JR React JS Developer annular technologies (17-11-2025)
 • Greencart MERN Project (21-11-2025)
-• Davinci Resolve (24-11-2025)
+• Davinci Resolve, Hinge issue (24-11-2025)
 • Laptop services for hinge issue (28-11-2025)
 
 December 2025
+• Laptop received (1-12-2025)
+• Office Visit (12-12-2025)
 • Job application SPE Cognizant (13-12-2025)
 
 
