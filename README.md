@@ -298,6 +298,9 @@ November 2025
 • Davinci Resolve (24-11-2025)
 • Laptop services for hinge issue (28-11-2025)
 
+December 2025
+• Job application SPE Cognizant (13-12-2025)
+
 
 
 
