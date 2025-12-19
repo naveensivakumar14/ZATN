@@ -303,6 +303,11 @@ December 2025
 • Laptop received (1-12-2025)
 • Office Visit (12-12-2025)
 • Job application SPE Cognizant (13-12-2025)
+• Interview Call Sadguru HC (16-12-2025)
+• Progressive web app presentation (19-12-2025)
+• JavaScript practice D1 (19-12-2025)
+
+
 
 
 
