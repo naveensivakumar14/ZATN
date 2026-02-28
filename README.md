@@ -1,7 +1,7 @@
 # ZATN 
 # Backend Development Bootcamp - Internship
 Schedule Overview
-November 15 to December 31 (46 days)
+November 15 to December 31 2024 (46 days)
 
 # Class 1 : 15-11-2024: Introduction to JavaScript
 
